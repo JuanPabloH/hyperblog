@@ -8,3 +8,5 @@ experimento 2
 
 
 probando git cherry-pick
+
+incluye ejemplos en w l m
